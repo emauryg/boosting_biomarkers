@@ -64,6 +64,7 @@ library(mvtnorm)
 
 ## To perform simulations with different values of rho
  n = 500; p = 5000
+
 ###################################################
 ## Exchengable covariance matrix
 ###################################################
